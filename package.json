@@ -1,0 +1,24 @@
+{
+  "name": "clean_architecture",
+  "version": "1.0.0",
+  "description": "Uncle Bob's Clean architecture Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sally-Builds/clean_architecture.git"
+  },
+  "keywords": [],
+  "author": "Joshua Uzoagulu .C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sally-Builds/clean_architecture/issues"
+  },
+  "homepage": "https://github.com/Sally-Builds/clean_architecture#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.2",
+    "typescript": "^4.8.4"
+  }
+}
